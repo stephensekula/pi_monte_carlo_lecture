@@ -1,4 +1,4 @@
-# Instructions on Running this Slide Deck in Jupyter\n",
+# Instructions on Running this Slide Deck in Jupyter
 
 I recommend the Anaconda-based approach:
  
