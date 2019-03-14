@@ -10,5 +10,6 @@ I recommend the Anaconda-based approach:
    * [RISE](https://damianavila.github.io/RISE/index.html): ```conda install -c damianavila82 rise```
 * Launch the slides:
    * ```jupyter-notebook <SLIDES.ipynb>```
+   * Set the notebook to be "Trusted" by your server/browser (button in the upper-right portion of user interface)
    * Use \"Alt-r\" to go to slideshow mode and Spacebar (SHIFT+Spacebar) to go forward (backward) through the slideshow. [More info is available in the RISE documentation](https://damianavila.github.io/RISE/usage.html).
    
