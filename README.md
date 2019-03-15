@@ -1,4 +1,12 @@
-# Instructions on Running this Slide Deck in Jupyter
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stephensekula/pi_monte_carlo_lecture/master?filepath=pi_lecture.ipynb)
+
+# Running
+
+* Click the badge above to launch this notebook on Binder, or...
+* See the instructions below for running in your own python environment on your own Jupyter instance
+
+
+## Instructions on Running this Slide Deck in a Local/Personal Jupyter Instance
 
 I recommend the Anaconda-based approach:
  
